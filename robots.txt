@@ -17,4 +17,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://VOTRE-DOMAINE.fr/sitemap.xml
+Sitemap: https://theotimegaliche16-cpu.github.io/earl-du-Pontillou-/sitemap.xml
